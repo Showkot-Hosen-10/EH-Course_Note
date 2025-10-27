@@ -43,6 +43,4 @@ Each PDF here is written and compiled by **Showkot Hosen**, with a focus on **cl
 If you find these resources useful, consider ⭐ starring the repository and sharing it with other learners.
 Each document contributes to a stronger foundation in **ethical hacking and cybersecurity research**.
 
----
 
-Would you like me to make this **slightly shorter and more visual (with emojis and badges)** for better GitHub presentation?
