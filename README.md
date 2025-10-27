@@ -32,9 +32,9 @@ Each PDF here is written and compiled by **Showkot Hosen**, with a focus on **cl
 ## 🧠 About the Author
 
 **Showkot Hosen**
-🎓 BSc in Electronics and Telecommunication Engineering (ETE), CUET 
-🔍 Focus: **Cybersecurity, IDS/IPS, and AI-driven Security Systems**
-💬 Passionate about bridging **engineering fundamentals** with **modern cyber defense**.
+-🎓 BSc in Electronics and Telecommunication Engineering (ETE), CUET 
+-🔍 Focus: **Cybersecurity, IDS/IPS, and AI-driven Security Systems**
+-💬 Passionate about bridging **engineering fundamentals** with **modern cyber defense**.
 
 ---
 
